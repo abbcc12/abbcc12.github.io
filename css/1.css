@@ -8,7 +8,7 @@ a{
     height: 5%;
 }
 .title {
-    font-size: 3.5rem;
+    font-size: 3.5em;
     text-align: center;
     color: rgb(66, 54, 54);
 }
@@ -31,15 +31,15 @@ a{
 }
 .time {
     margin-left: 50px;
-    font-size: 2rem;
+    font-size: 2em;
 }
 .link {
     margin-left: 150px;
-    font-size: 2rem;
+    font-size: 2em;
     color:rgb(44, 59, 72);
 }
 .aLink {
-    font-size: 1.5rem;
+    font-size: 1.5em;
     color:rgb(55,55,100)
 }
 .note {
