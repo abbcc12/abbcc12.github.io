@@ -37,11 +37,12 @@ a{
     font-size: 2rem;
 }
 .link {
-    margin-left: 150px;
+    
     font-size: 2rem;
     color:rgb(44, 59, 72);
 }
 .aLink {
+    margin-left: 150px;
     font-size: 1.5rem;
     color:rgb(55,55,100)
 }
