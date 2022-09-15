@@ -3,7 +3,7 @@
                 <div class="time">
                     
                 </div>
-                <div clas="link">
+                <div class="link">
                     <a class="aLink" target="_blank" href="./resource/">
 
                     </a>
