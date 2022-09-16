@@ -1,10 +1,10 @@
 
             <div class="item">
                 <div class="time">
-                    
+                    2022年&nbsp; 月&nbsp; 日
                 </div>
                 <div class="link">
-                    <a class="aLink" target="_blank" href="./resource/">
+                    <a class="aLink" target="_blank" href="./resource/2022-09">
 
                     </a>
                 </div>
@@ -12,5 +12,4 @@
 
                 </div>
             </div>
-            <!-- 2022年&nbsp; 月&nbsp; 日 -->
             <!--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
