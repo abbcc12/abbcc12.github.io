@@ -12,5 +12,5 @@
 
                 </div>
             </div>
-            <!-- 2022年&nbsp;      月&nbsp;      日 -->
+            <!-- 2022年&nbsp; 月&nbsp; 日 -->
             <!--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
