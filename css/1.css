@@ -32,6 +32,7 @@ a{
 .item{
     margin-top: 5px;
     background-color: rgba(0, 0, 0, 0.053);
+    border-radius: 30px;
 }
 .time {
     margin-left: 50px;
