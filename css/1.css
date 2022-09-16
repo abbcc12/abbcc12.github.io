@@ -26,6 +26,7 @@ a{
     margin-bottom: 3%;
 }
 .w60 {
+    margin-top:3%;
     width: 60%;
     max-width: 2500px;
     min-width: 1000px;
