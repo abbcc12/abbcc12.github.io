@@ -12,9 +12,12 @@ a{
     height: 5%;
 }
 .title {
-    font-size: 3.5rem;
+    font-size: 3rem;
     text-align: center;
     color: rgb(66, 54, 54);
+    margin-bottom: 3%;
+    margin-top: 1%;
+    
 }
 .alert {
     color: rgba(124, 0, 0, 0.549);
@@ -30,7 +33,7 @@ a{
     min-height: 100px;
 }
 .item{
-    margin-top: 5px;
+    margin-top: 15px;
     background-color: rgba(0, 0, 0, 0.053);
     border-radius: 30px;
 }
