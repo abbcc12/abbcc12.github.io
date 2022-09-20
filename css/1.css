@@ -54,6 +54,7 @@ a{
 }
 .note {
     color: rgb(226, 21, 21);
+    margin-left: 10px;
 }
 .pic {
     width:80%;
