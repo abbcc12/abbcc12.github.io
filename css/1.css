@@ -59,3 +59,9 @@ a{
 .pic {
     width:80%;
 }
+.bt {
+    width: 200px;
+    height: 40px;
+    font-size: 23px;
+    margin-bottom: 2%;
+}
