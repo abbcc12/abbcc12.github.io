@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+}
+.main{
+    margin: auto;
+    width: 90%;
+    margin-top: 5em;
+    background-color: #ff000000;
+}
+.main1{
+    margin: auto;
+    width: 90%;
+    margin-top: 5em;
+    background-color: #ff000000;
+    font-size: 1.6em;
+}
+.textarea{
+    width: 100%;
+    font-size: 1.5em;
+}
+.textarea2{
+    width: 100%;
+    font-size: 1.5em;
+}
+#after1::after{
+	content: "显示空白页面";
+}
+#blankpage{
+	width: 2em;
+	height: 2em;
+}
+.urlq1{
+	font-size: 1.3em;
+	margin-top: 0.8em;
+}
+#starttime{
+	margin-top: 0.5em;
+	width: 2em;
+	height: 2em;
+}
+#after2::after{
+	content:"可用起始时间";
+}
+#s-time{
+	margin-left: 5em;
+	font-size: 1em;
+}
+#endtime{
+	margin-top: 0.5em;
+	width: 2em;
+	height: 2em;
+}
+#after9::after{
+	content:"可用截止时间";
+}
+#e-time{
+	margin-left: 5em;
+	font-size: 1em;
+}
+#after3::after{
+	content: "年";
+	margin-left: 0.2em;
+	margin-right: 0.5em;
+}
+#after4::after{
+	content: "月";
+	margin-left: 0.2em;
+	margin-right: 0.5em;
+}
+#after5::after{
+	content: "日";
+	margin-left: 0.2em;
+	margin-right: 0.5em;
+}
+#after6::after{
+	content: "时";
+	margin-left: 0.2em;
+	margin-right: 0.5em;
+}
+#after7::after{
+	content: "分";
+	margin-left: 0.2em;
+	margin-right: 0.5em;
+}
+#after8::after{
+	content: "秒";
+	margin-left: 0.2em;
+	margin-right: 0.5em;
+}
+#h2::after{
+	content: "此处输入URL:";
+}
+#h2-2::after{
+	content: "此处输入文本:";
+}
+#password{
+	margin-top: 0.5em;
+	width: 2em;
+	height: 2em;
+}
+#after10::after{
+	content: "启用密钥";
+}
+#password-input{
+	margin-left: 5em;
+	font-size: 1em;
+}
+#after11::after{
+	content: "密钥";
+}
+#after13{
+	color: red;
+	margin-left: 1.5em;
+	animation: a 0.8s infinite;
+}
+@keyframes a{
+	0%{opacity: 1;}
+	42%{opacity: 1;}
+	58%{opacity: 0;}
+	100%{opacity: 0;}
+}
+#after12::after{
+	content: "确认密钥";
+}
+#after14{
+	color: green;
+	margin-left: 1.5em;
+}
+#after15::after{
+	content: "自动跳转";
+}
+#auto{
+	width: 2em;
+	height: 2em;
+}
+/***********************************************************************************************************/
+.urlq2{
+	font-size: 1.3em;
+	margin-top: 0.8em;
+}
+#blankpage2{
+	width: 2em;
+	height: 2em;
+}
+#starttime2{
+	margin-top: 0.5em;
+	width: 2em;
+	height: 2em;
+}
+#s-time2{
+	margin-left: 5em;
+	font-size: 1em;
+}
+#endtime2{
+	margin-top: 0.5em;
+	width: 2em;
+	height: 2em;
+}
+#e-time2{
+	margin-left: 5em;
+	font-size: 1em;
+}
+#password2{
+	margin-top: 0.5em;
+	width: 2em;
+	height: 2em;
+}
+#password-input2{
+	margin-left: 5em;
+	font-size: 1em;
+}
+#after132{
+	color: red;
+	margin-left: 1.5em;
+	animation: a 0.8s infinite;
+}
+@keyframes a{
+	0%{opacity: 1;}
+	42%{opacity: 1;}
+	58%{opacity: 0;}
+	100%{opacity: 0;}
+}
+#after142{
+	color: green;
+	margin-left: 1.5em;
+}
+#inputKey{
+	display: none;
+}
+#inputKey-input{
+	font-size: 2em;
+	color: aqua;
+}
+#keyButton{
+	font-size: 1.8em;
+	background-color: #eeeeee;
+	border-radius: 0.3em;
+	cursor: not-allowed;
+}
